@@ -13,3 +13,7 @@ The tools directory contains all the tools I used for this research. Including t
 ## Academy CTF challenge
 
 We've created a [CTF on the Web Security Academy](https://portswigger.net/web-security/logic-flaws/examples#email-address-parser-discrepancies) so you can try out your new skills.
+
+## Slides
+
+You can grab my [slides from Black Hat](http://i.blackhat.com/BH-US-24/Presentations/US24-Heyes-Splitting-the-Email-Atom-Exploiting-Parsers-to-Bypass-Access-Controls-Wednesday.pdf).
