@@ -16,4 +16,18 @@ We've created a [CTF on the Web Security Academy](https://portswigger.net/web-se
 
 ## Slides
 
-You can grab my [slides from Black Hat](http://i.blackhat.com/BH-US-24/Presentations/US24-Heyes-Splitting-the-Email-Atom-Exploiting-Parsers-to-Bypass-Access-Controls-Wednesday.pdf).
+You can grab my [slides from Black Hat/DEF CON](http://i.blackhat.com/BH-US-24/Presentations/US24-Heyes-Splitting-the-Email-Atom-Exploiting-Parsers-to-Bypass-Access-Controls-Wednesday.pdf).
+
+## 3D rooms portfolio
+
+My personal website that I mention in the talk that has [3D rooms](https://garethheyes.co.uk/) written with just HTML/CSS.
+
+## Online Hackvertor
+
+The free web version of [Hackvertor](https://hackvertor.co.uk/) that help produce email splitting attacks.
+
+## Burp extensions
+
+[Turbo Intruder](https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988)
+
+[Hackvertor](https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100)
