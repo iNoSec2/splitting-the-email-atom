@@ -18,6 +18,8 @@ We've created a [CTF on the Web Security Academy](https://portswigger.net/web-se
 
 You can grab my [slides from Black Hat/DEF CON](http://i.blackhat.com/BH-US-24/Presentations/US24-Heyes-Splitting-the-Email-Atom-Exploiting-Parsers-to-Bypass-Access-Controls-Wednesday.pdf).
 
+[Slides for NDC Manchester 2025](./slides/NDC-Manchester-Splitting-The-Email-Atom_Exploiting-Parsers-To-Bypass-Access-Controls-2025.pdf)
+
 ## 3D rooms portfolio
 
 My personal website that I mention in the talk that has [3D rooms](https://garethheyes.co.uk/) written with just HTML/CSS.
